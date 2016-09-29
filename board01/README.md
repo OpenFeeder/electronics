@@ -4,6 +4,7 @@ If you're interested in modifying or extending the OpenFeeder software or hardwa
 suggest discussing your ideas with the developers *before* starting to work on them.
 That way you can coordinate with the OpenFeeder Team and others, giving your work a higher chance
 of being integrated into the official release.
+
 *Contact [Developer Team](mailto:arnauld.biganzoli@gmail.com,jbtechlab@gmail.com)*
 
 
@@ -11,7 +12,7 @@ Prototype board used
 --------------------
 The first prototype board was created in november 2015 by [Select Design](http://select-design.net/)
 - [OpenFeeder - Board01](https://docs.google.com/document/d/1MuPXdwcBcdYiER29TY8erCPw7mGYlfRxIeXWazllpBY/edit?usp=sharing)
-![OpenFeeder - Board01](/img_board01.png?raw=true "board01")
+![OpenFeeder - Board01](/board01/img_board01.png?raw=true "board01")
 
 
 Hardware uses
