@@ -5,15 +5,13 @@ suggest discussing your ideas with the developers *before* starting to work on t
 That way you can coordinate with the OpenFeeder Team and others, giving your work a higher chance
 of being integrated into the official release.
 
-*Contact [Developer Team](mailto:arnauld.biganzoli@gmail.com)*
-
-https://www.youtube.com/watch?v=hi4DFpqdu0Q&ab_channel=MaximeCauchoix
+*Contact [Developer Team](mailto:mcauchoixxx@gmail.com)*
 
 ## The hardware development
 
-Design in 2015 by [Select Design](http://select-design.net/), the last version of OpenFeeder electronic board v03
+Design by [Select Design](http://select-design.net/), the last version of OpenFeeder electronic board v03
 
-<img src="board03/of-board-details-v03.png" width="600">
+<img src="board03/of-board-details-v03.png" width="800">
 
 ---
 
@@ -21,7 +19,7 @@ Design in 2015 by [Select Design](http://select-design.net/), the last version o
 
 OpenFeeder is an open source project ;-)
 
-The OpenFeeder team is composed of [Maxime CAUCHOIX](http://www.iast.fr/member/maxime-cauchoix), [Jérôme BRIOT](http://blog.developpez.com/dut/), [Arnauld BIGANZOLI](http://tonic.inserm.fr/arnauld-biganzoli-404340.kjsp) and [Vincent GUIRAUD](http://select-design.net/).
+The OpenFeeder team is composed of [Maxime CAUCHOIX](http://www.iast.fr/member/maxime-cauchoix), [Jérôme BRIOT](http://blog.developpez.com/dut/), [Arnauld BIGANZOLI](https://www.electroniciens.cnrs.fr/author/arnauld-biganzoli/) and [Vincent GUIRAUD](http://select-design.net/).
 
 Join us ;-)
 
